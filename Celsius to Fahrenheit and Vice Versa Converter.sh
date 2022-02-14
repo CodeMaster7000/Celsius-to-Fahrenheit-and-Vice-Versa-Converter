@@ -1,4 +1,4 @@
-echo "*** Converting between the different temperature scales ***"
+echo "*** Converting between different temperature units ***"
 echo "1. Convert Celsius temperatures into Fahrenheit"
 echo "2. Convert Fahrenheit temperatures into Celsius"
 echo -n "Select your choice (1-2): "
